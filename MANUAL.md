@@ -1,6 +1,7 @@
+
 # MANUAL TÉCNICO DEL SISTEMA EDUAPP
 
-![Logo EduApp](https://silly-banoffee-6e8cac.netlify.app/lovable-uploads/bd094bea-a8f4-4bc7-b320-bbcb1ca4f552.png)
+<img src="https://silly-banoffee-6e8cac.netlify.app/lovable-uploads/bd094bea-a8f4-4bc7-b320-bbcb1ca4f552.png" alt="Logo EduApp" width="200"/>
 
 **INGENIERÍA DE SOFTWARE**
 
